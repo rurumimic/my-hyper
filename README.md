@@ -37,7 +37,7 @@ config: {
 - [hyper-blink](https://github.com/amio/hyper-blink): A living cursor blinks
 - [hyperterm-cursor](https://github.com/alvaropinot/hyperterm-cursor): hyperterm-cursor a color difference cursor (at the moment)
 - [hyper-pane](https://github.com/chabou/hyper-pane): Extension for Hyper.app to enhance pane navigation. Navigate through panes with arrows, jump directly to a specific pane with digit, change focus on mouse hover or temporarily maximize a pane
-- [hyper-active-tab](https://github.com/lucleray/hyper-active-tab): Add a symbol to the ▲ active tab in your hyper terminal
+- ~~[hyper-active-tab](https://github.com/lucleray/hyper-active-tab): Add a symbol to the ▲ active tab in your hyper terminal~~
 - [hyper-broadcast](https://github.com/chabou/hyper-broadcast): Extension for Hyper.app to broadcast user inputs to multiple terms
 - ~~[hyper-tabs-enhanced](https://github.com/henrikdahl/hyper-tabs-enhanced): Enhanced Tabs Plugin for Hyper. Matches any theme.~~
 - [hyper-highlight-active-pane](https://hyper.is/plugins/hyper-highlight-active-pane): Highlight the currently active pane in Hyper
