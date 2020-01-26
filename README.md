@@ -20,7 +20,7 @@ shell: '/bin/zsh',
 
 ## Config
 
-```js
+```json
 config: {
     hypest: {
       darkmode: true,
