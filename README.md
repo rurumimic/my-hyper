@@ -48,3 +48,19 @@ config: {
 
 - ~~[hyper-active-tab](https://github.com/lucleray/hyper-active-tab): Add a symbol to the ▲ active tab in your hyper terminal~~
 - ~~[hyper-tabs-enhanced](https://github.com/henrikdahl/hyper-tabs-enhanced): Enhanced Tabs Plugin for Hyper. Matches any theme.~~
+
+### Script
+
+```bash
+hyper i hypercwd;
+hyper i hyperborder;
+hyper i hyper-blink;
+hyper i hyperterm-cursor;
+hyper i hyper-pane;
+hyper i hyper-broadcast;
+hyper i hyper-highlight-active-pane;
+hyper i hyper-search;
+hyper i hyper-statusline;
+hyper i hyper-tab-icons-plus;
+hyper i hyper-hypest;
+```
