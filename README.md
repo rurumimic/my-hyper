@@ -33,7 +33,6 @@ config: {
 ## Plugins
 
 - [hypercwd](https://github.com/hharnisc/hypercwd): Opens new tabs with the same directory as the current tab in Hyper for OS X, Linux, and Windows
-- [hyperborder](https://github.com/webmatze/hyperborder): adds a gradient border to the Hyper terminal
 - [hyper-blink](https://github.com/amio/hyper-blink): A living cursor blinks
 - [hyperterm-cursor](https://github.com/alvaropinot/hyperterm-cursor): hyperterm-cursor a color difference cursor (at the moment)
 - [hyper-pane](https://github.com/chabou/hyper-pane): Extension for Hyper.app to enhance pane navigation. Navigate through panes with arrows, jump directly to a specific pane with digit, change focus on mouse hover or temporarily maximize a pane
@@ -47,13 +46,13 @@ config: {
 ### Crashed
 
 - ~~[hyper-active-tab](https://github.com/lucleray/hyper-active-tab): Add a symbol to the ▲ active tab in your hyper terminal~~
+- ~~[hyperborder](https://github.com/webmatze/hyperborder): adds a gradient border to the Hyper terminal~~
 - ~~[hyper-tabs-enhanced](https://github.com/henrikdahl/hyper-tabs-enhanced): Enhanced Tabs Plugin for Hyper. Matches any theme.~~
 
 ### Script
 
 ```bash
 hyper i hypercwd;
-hyper i hyperborder;
 hyper i hyper-blink;
 hyper i hyperterm-cursor;
 hyper i hyper-pane;
